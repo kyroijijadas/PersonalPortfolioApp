@@ -135,7 +135,7 @@ class PortfolioScreen extends StatelessWidget {
 
               // Bio Description Text
               const Text(
-                'Through the lens of code and UI design, the digital world unfolds as a captivating canvas of functional experiences.',
+                 "Driven by curiosity and hard work, I enjoy exploring new technologies, adapting to different workflows, and solving challenging programming logic.",
                 style: TextStyle(
                   fontSize: 13,
                   color: Colors.white60,
